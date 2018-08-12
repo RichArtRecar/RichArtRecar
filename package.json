@@ -1,0 +1,27 @@
+{
+  "name": "richartrecar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichArtRecar/RichArtRecar.git"
+  },
+  "author": "RichR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichArtRecar/RichArtRecar/issues"
+  },
+  "homepage": "https://richartrecar.com/",
+  "dependencies": {
+    "gitignore": "^0.6.0",
+    "jquery": "^3.3.1",
+    "normalize": "^0.3.1",
+    "normalize.css": "^8.0.0",
+    "postcss": "^7.0.2",
+    "sass": "^1.10.4"
+  }
+}
